@@ -3,7 +3,6 @@ Test
 
 Hi,
 
-
 This is a test.
 
-Just cheking.
+Just checking.
